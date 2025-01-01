@@ -1,1 +1,1 @@
-# Architectures
+# Artificial Intelligence (AI) Architectures
